@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yegetaneh Firew
 - 👀 I’m interested in Solving Problems 
-- 🌱 I’m currently learning Mobile App Development
+- 🌱 I’m currently learning Web 3.0 and Arteficial intelegence 
 - 📫 How to reach me lijnati3@gmail.com
 
 <!---
