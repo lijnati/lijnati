@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lijnati" alt="lijnati" /></a> </p>
 
-- 🌱 I’m currently learning **Web3,Block Chain,React Native**
+- 🌱 I’m currently learning **Software Engineering at ALX**
 
 - 👯 I’m looking to collaborate on **JavaScript,React,Python**
 
