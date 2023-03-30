@@ -7,15 +7,17 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 👯 I’m looking to collaborate on **JavaScript,React,Python**
+- 👯 I’m looking to collaborate on **JavaScript,React,C**
 
-- 💬 Ask me about **JavaScript,Web3,Python,Android,All about coding**
+- 💬 Ask me about **web dev,JavaScript(MERN),Web3,Python,AI,Linux**
 
 - 📫 How to reach me **lijnati3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__ye.ge.ta.neh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ye.ge.ta.neh__" height="30" width="40" /></a>
+<a href="https://twitter.com/yegetaneh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yegetaneh12" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
