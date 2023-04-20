@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 👯 I’m looking to collaborate on **JavaScript,React,C**
+- 👨‍💻 I’m looking for **Remote Job**
 
-- 💬 Ask me about **web dev,JavaScript(MERN),Web3,Python,AI,Linux**
+- 💬 Ask me about **Web Dev't,JavaScript,C,Python,AI,Linux**
 
 - 📫 How to reach me **lijnati3@gmail.com**
 
