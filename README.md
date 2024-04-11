@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/__ye.ge.ta.neh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ye.ge.ta.neh__" height="30" width="40" /></a>
 <a href="https://twitter.com/yegetaneh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yegetaneh12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yegetaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 
 </p>
 
