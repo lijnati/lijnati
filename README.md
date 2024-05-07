@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m looking for **Remote Job**
 
-- 💬 Ask me about **Web Dev't,JavaScript,C,Python,AI,Linux**
+- 💬 Let's collab in any project of these **Web Dev | JavaScript | Svelte | Python | AI | NodeJS**
 
 - 📫 How to reach me **lijnati3@gmail.com**
 
