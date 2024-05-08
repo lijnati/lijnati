@@ -11,7 +11,7 @@
 
 - 💬 Let's collab in any project of these **Web Dev | JavaScript | Svelte | Python | AI | NodeJS**
 
-- 📫 How to reach me **lijnati3@gmail.com**
+- 📫 How to reach me **yegetaneh@websidia.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
