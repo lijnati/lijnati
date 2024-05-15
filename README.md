@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 👨‍💻 I’m looking for **Freelance and Remote Job**
+- 👨‍💻 I’m looking for **Freelance and Remote Jobs**
 
 - 💬 Let's collab in any project of these **Web Dev | JavaScript | Svelte | Python | AI | NodeJS**
 
