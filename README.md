@@ -1,15 +1,15 @@
 <h1 align="center">Hello there 👋, I'm Yegetaneh Firew aka Nahtty👨‍💻</h1>
-<h3 align="center">The Self-taught Developer from Ethiopia🇪🇹</h3>
+<h3 align="center">The Self-taught Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijnati&label=Profile%20views&color=0e75b6&style=flat" alt="lijnati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lijnati" alt="lijnati" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering at ALX**
+- 🌱 I’m currently learning **Blockchain and Web3**
 
 - 👨‍💻 I’m looking for **Freelance and Remote Jobs**
 
-- 💬 Let's collab in any project of these **Web Dev | JavaScript | Svelte | Python | AI | NodeJS**
+- 💬 Let's collab in any project of these **Web Dev | JS/TS | Svelte | Next.js | Blockchain| NodeJS**
 
 - 📫 How to reach me **yegetaneh@websidia.tech**
 
