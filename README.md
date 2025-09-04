@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Yegetaneh - AKA Nahtty. 
 
-💻 **Blockchain Developer | Smart Contract Engineer | Web & dApp Builder**  
+💻 **Blockchain Developer | Smart Contract Engineer | Full-Stack Web & dApp Builder**  
 
 ---
 
