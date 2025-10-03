@@ -19,13 +19,6 @@
 
 ---
 
-## 🏗️ Featured Projects  
-- 🏡 **Real Estate Tokenization** – ERC20 fractional property ownership + Chainlink price feeds  
-- 🔄 **Mini DEX** – Token swaps, liquidity pools, fee mechanism  
-- 🔑 **Wallet Integration** – Secure Web3 wallet authentication  
-
----
-
 ## 📫 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yegetaneh-firew)  
 📧 **lijnati3@gmail.com**
