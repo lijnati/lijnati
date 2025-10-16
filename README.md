@@ -1,11 +1,11 @@
 
-# 👋 Hi, I'm Yegetaneh - AKA Nahtty. 
+#  Hi, I'm Yegetaneh - AKA Nahtty. 
 
-💻 **Blockchain Developer | Smart Contract Engineer | Full-Stack Web & dApp Builder**  
+ **Blockchain Developer | Smart Contract Engineer | Full-Stack Web & dApp Builder**  
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
