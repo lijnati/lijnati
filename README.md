@@ -1,4 +1,4 @@
-# hey, i'm yegetaneh aka nahtty 👋
+# hey, i'm yegetaneh aka nahtty.
 
 i like building things that shouldn't exist.
 
