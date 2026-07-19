@@ -24,7 +24,7 @@ x → x.com/0xnahtty
 
 farcaster → farcaster.xyz/0xnahtty
 
-website → yegetaneh.dev
+website → yegetaneh.tech
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lijnati&show_icons=true&hide_border=true&theme=transparent" height="150"/>
