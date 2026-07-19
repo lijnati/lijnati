@@ -26,11 +26,4 @@ farcaster → farcaster.xyz/0xnahtty
 
 website → yegetaneh.tech
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lijnati&show_icons=true&hide_border=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijnati&layout=compact&hide_border=true&theme=transparent" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lijnati&theme=transparent&hide_border=true"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lijnati&theme=dark)](https://git.io/streak-stats)
