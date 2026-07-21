@@ -26,4 +26,4 @@ farcaster → farcaster.xyz/0xnahtty
 
 website → yegetaneh.tech
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lijnati&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lijnati&theme=dark)](https://git.io/streak-stats)
