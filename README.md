@@ -16,6 +16,8 @@ just trying to make software people actually enjoy using.
 
 # find me
 
+website → yegetaneh.tech
+
 github → github.com/lijnati
 
 linkedin → linkedin.com/in/yegetaneh-firew
@@ -24,6 +26,6 @@ x → x.com/0xnahtty
 
 farcaster → farcaster.xyz/0xnahtty
 
-website → yegetaneh.tech
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lijnati&theme=dark)](https://git.io/streak-stats)
