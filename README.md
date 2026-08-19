@@ -28,4 +28,4 @@ farcaster → farcaster.xyz/0xnahtty
 
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=lijnati&theme=dark)](https://git.io/streak-stats)
