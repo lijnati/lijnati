@@ -28,7 +28,7 @@ x → <a href="x.com/0xnahtty"> x.com/0xnahtty </a>
 
 farcaster → <a href="farcaster.xyz/0xnahtty"> farcaster.xyz/0xnahtty </a>
 
-email → [Email](mailto:lijnati3@gmail.com)
+email → [lijnati3@gmail.com](mailto:lijnati3@gmail.com)
 
 
 
