@@ -9,6 +9,7 @@ right now i'm into
 • ai
 • full-stack dev
 • telegram bots
+• SaaS
 
 just trying to make software people actually enjoy using.
 
