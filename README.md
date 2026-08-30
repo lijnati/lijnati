@@ -4,11 +4,12 @@ i'm yegetaneh aka nahtty.
 
 i build stuff with code.
 
-right now i'm into <br>
-• blockchain/web3 
-• ai
-• full-stack dev
-• telegram bots
+right now i'm into: <br>
+<br>
+• blockchain/web3 <br>
+• ai <br>
+• full-stack dev <br>
+• telegram bots <br>
 • SaaS
 
 just trying to make software people actually enjoy using.
@@ -19,13 +20,15 @@ just trying to make software people actually enjoy using.
 
 website → <a href= "https://yegetaneh.tech"> yegetaneh.tech </a>
 
-github → github.com/lijnati
+github → <a href="github.com/lijnati"> github.com/lijnati </a>
 
-linkedin → linkedin.com/in/yegetaneh-firew
+linkedin → <a href="linkedin.com/in/yegetaneh-firew"> linkedin.com/in/yegetaneh-firew </a>
 
-x → x.com/0xnahtty
+x → <a href="x.com/0xnahtty"> x.com/0xnahtty </a>
 
-farcaster → farcaster.xyz/0xnahtty
+farcaster → <a href="farcaster.xyz/0xnahtty"> farcaster.xyz/0xnahtty </a>
+
+email → [Email](mailto:lijnati3@gmail.com)
 
 
 
