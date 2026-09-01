@@ -32,4 +32,4 @@ email → [lijnati3@gmail.com](mailto:lijnati3@gmail.com)
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lijnati&theme=dark)](https://git.io/streak-stats)
+
